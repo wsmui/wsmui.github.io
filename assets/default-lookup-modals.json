@@ -1,0 +1,1015 @@
+BBGUDEM_RECEIPT_LKP_BIN_ID
+{
+  "itemType": "receipt-lkp"
+}
+
+KUDAKUDA_RECEIPT_LKP_BIN_ID
+{
+  "itemType": "receipt-lkp"
+}
+
+PRICE_LKP_BIN   
+{
+  "itemType": "price-lkp",
+  "items": {"20250930":"68e700cd43b1c97be95f7715"}
+}
+
+BBGUDEM_LKP_BIN
+{
+  "itemType": "stock-lkp"
+}
+
+KUDAKUDA_LKP_BIN
+{
+  "itemType": "stock-lkp"
+}
+
+
+
+{
+  "effDate": "20251009",
+  "itemType": "products",
+  "products": [
+    {
+      "name": "Black & White",
+      "seq": 1,
+      "group": "Liquor",
+      "type": 0,
+      "subType": 1,
+      "q": 2080,
+      "p": 1050,
+      "n": 520,
+      "d": 0
+    },
+    {
+      "name": "Teachers",
+      "seq": 2,
+      "group": "Liquor",
+      "type": 0,
+      "subType": 1,
+      "q": 2320,
+      "p": 1160,
+      "n": 580,
+      "d": 210
+    },
+    {
+      "name": "Block Dog",
+      "seq": 3,
+      "group": "Liquor",
+      "type": 0,
+      "subType": 1,
+      "q": 2160,
+      "p": 1090,
+      "n": 540,
+      "d": 0
+    },
+    {
+      "name": "100 Pipers",
+      "seq": 4,
+      "group": "Liquor",
+      "type": 0,
+      "subType": 1,
+      "q": 2160,
+      "p": 1080,
+      "n": 540,
+      "d": 0
+    },
+    {
+      "name": "A. T. B.",
+      "seq": 6,
+      "group": "Liquor",
+      "type": 0,
+      "subType": 1,
+      "q": 1450,
+      "p": 730,
+      "n": 360,
+      "d": 0
+    },
+    {
+      "name": "Signature",
+      "seq": 7,
+      "group": "Liquor",
+      "type": 0,
+      "subType": 1,
+      "q": 1360,
+      "p": 680,
+      "n": 340,
+      "d": 180
+    },
+    {
+      "name": "Blendars Pride",
+      "seq": 8,
+      "group": "Liquor",
+      "type": 0,
+      "subType": 1,
+      "q": 1360,
+      "p": 680,
+      "n": 340,
+      "d": 180
+    },
+    {
+      "name": "Royal Challenge",
+      "seq": 9,
+      "group": "Liquor",
+      "type": 0,
+      "subType": 1,
+      "q": 1200,
+      "p": 600,
+      "n": 300,
+      "d": 160
+    },
+    {
+      "name": "Royal Green",
+      "seq": 10,
+      "group": "Liquor",
+      "type": 0,
+      "subType": 1,
+      "q": 880,
+      "p": 440,
+      "n": 220,
+      "d": 120
+    },
+    {
+      "name": "Royal Stag",
+      "seq": 12,
+      "group": "Liquor",
+      "type": 0,
+      "subType": 1,
+      "q": 880,
+      "p": 440,
+      "n": 220,
+      "d": 120
+    },
+    {
+      "name": "Sterling B-7",
+      "seq": 13,
+      "group": "Liquor",
+      "type": 0,
+      "subType": 1,
+      "q": 880,
+      "p": 440,
+      "n": 220,
+      "d": 120
+    },
+    {
+      "name": "M. C. Luxury",
+      "seq": 15,
+      "group": "Liquor",
+      "type": 0,
+      "subType": 1,
+      "q": 760,
+      "p": 380,
+      "n": 190,
+      "d": 100
+    },
+    {
+      "name": "I. B.",
+      "seq": 16,
+      "group": "Liquor",
+      "type": 0,
+      "subType": 1,
+      "q": 760,
+      "p": 380,
+      "n": 190,
+      "d": 100
+    },
+    {
+      "name": "O. C. Blue",
+      "seq": 18,
+      "group": "Liquor",
+      "type": 0,
+      "subType": 1,
+      "q": 760,
+      "p": 380,
+      "n": 190,
+      "d": 100
+    },
+    {
+      "name": "O. C.",
+      "seq": 19,
+      "group": "Liquor",
+      "type": 0,
+      "subType": 1,
+      "q": 640,
+      "p": 320,
+      "n": 160,
+      "d": 90
+    },
+    {
+      "name": "M. H. Brandy",
+      "seq": 22,
+      "group": "Liquor",
+      "type": 0,
+      "subType": 1,
+      "q": 730,
+      "p": 370,
+      "n": 180,
+      "d": 100
+    },
+    {
+      "name": "8 P. M.",
+      "seq": 24,
+      "group": "Liquor",
+      "type": 0,
+      "subType": 1,
+      "q": 880,
+      "p": 440,
+      "n": 220,
+      "d": 120
+    },
+    {
+      "name": "M. M. Vodka",
+      "seq": 26,
+      "group": "Liquor",
+      "type": 0,
+      "subType": 1,
+      "q": 840,
+      "p": 420,
+      "n": 210,
+      "d": 0
+    },
+    {
+      "name": "O A B",
+      "seq": 28,
+      "group": "Liquor",
+      "type": 0,
+      "subType": 1,
+      "q": 0,
+      "p": 0,
+      "n": 140,
+      "d": 80
+    },
+    {
+      "name": "Cheft",
+      "seq": 29,
+      "group": "Liquor",
+      "type": 0,
+      "subType": 1,
+      "q": 560,
+      "p": 0,
+      "n": 110,
+      "d": 70
+    },
+    {
+      "name": "J Red Lable",
+      "seq": 32,
+      "group": "Liquor",
+      "type": 0,
+      "subType": 1,
+      "q": 2610,
+      "p": 1390,
+      "n": 0,
+      "d": 0
+    },
+    {
+      "name": "Globus",
+      "seq": 34,
+      "group": "Liquor",
+      "type": 0,
+      "subType": 1,
+      "q": 680,
+      "p": 340,
+      "n": 170,
+      "d": 0
+    },
+    {
+      "name": "Madhura",
+      "seq": 35,
+      "group": "Liquor",
+      "type": 0,
+      "subType": 1,
+      "q": 920,
+      "p": 460,
+      "n": 230,
+      "d": 0
+    },
+    {
+      "name": "R C Blue",
+      "seq": 36,
+      "group": "Liquor",
+      "type": 0,
+      "subType": 1,
+      "q": 880,
+      "p": 440,
+      "n": 220,
+      "d": 120
+    },
+    {
+      "name": "R S 1 Ltr",
+      "seq": 37,
+      "group": "Liquor",
+      "type": 0,
+      "subType": 1,
+      "q": 1180,
+      "p": 0,
+      "n": 0,
+      "d": 0
+    },
+    {
+      "name": "Sula",
+      "seq": 38,
+      "group": "Liquor",
+      "type": 0,
+      "subType": 1,
+      "q": 1200,
+      "p": 600,
+      "n": 300,
+      "d": 0
+    },
+    {
+      "name": "American Pride",
+      "seq": 39,
+      "group": "Liquor",
+      "type": 0,
+      "subType": 1,
+      "q": 1360,
+      "p": 680,
+      "n": 340,
+      "d": 0
+    },
+    {
+      "name": "BSP 1 Ltr",
+      "seq": 40,
+      "group": "Liquor",
+      "type": 0,
+      "subType": 1,
+      "q": 1790,
+      "p": 0,
+      "n": 0,
+      "d": 0
+    },
+    {
+      "name": "Knock Out",
+      "seq": 41,
+      "group": "650 ml",
+      "type": 1,
+      "subType": 1,
+      "q": 190,
+      "p": 0,
+      "n": 0,
+      "d": 0
+    },
+    {
+      "name": "H 5000",
+      "seq": 42,
+      "group": "650 ml",
+      "type": 1,
+      "subType": 1,
+      "q": 190,
+      "p": 0,
+      "n": 0,
+      "d": 0
+    },
+    {
+      "name": "K F (S)",
+      "seq": 43,
+      "group": "650 ml",
+      "type": 1,
+      "subType": 1,
+      "q": 190,
+      "p": 0,
+      "n": 0,
+      "d": 0
+    },
+    {
+      "name": "K F (L)",
+      "seq": 44,
+      "group": "650 ml",
+      "type": 1,
+      "subType": 1,
+      "q": 180,
+      "p": 0,
+      "n": 0,
+      "d": 0
+    },
+    {
+      "name": "R C",
+      "seq": 45,
+      "group": "650 ml",
+      "type": 1,
+      "subType": 1,
+      "q": 180,
+      "p": 0,
+      "n": 0,
+      "d": 0
+    },
+    {
+      "name": "B D",
+      "seq": 46,
+      "group": "650 ml",
+      "type": 1,
+      "subType": 1,
+      "q": 250,
+      "p": 0,
+      "n": 0,
+      "d": 0
+    },
+    {
+      "name": "B D Strong",
+      "seq": 47,
+      "group": "650 ml",
+      "type": 1,
+      "subType": 1,
+      "q": 260,
+      "p": 0,
+      "n": 0,
+      "d": 0
+    },
+    {
+      "name": "Breezer",
+      "seq": 48,
+      "group": "250 ml",
+      "type": 1,
+      "subType": 1,
+      "q": 130,
+      "p": 0,
+      "n": 0,
+      "d": 0
+    },
+    {
+      "name": "B D S Tin",
+      "seq": 49,
+      "group": "500 ml",
+      "type": 1,
+      "subType": 1,
+      "q": 190,
+      "p": 0,
+      "n": 0,
+      "d": 0
+    },
+    {
+      "name": "B D Tin",
+      "seq": 50,
+      "group": "500 ml",
+      "type": 1,
+      "subType": 1,
+      "q": 190,
+      "p": 0,
+      "n": 0,
+      "d": 0
+    },
+    {
+      "name": "K F Ultra",
+      "seq": 51,
+      "group": "650 ml",
+      "type": 1,
+      "subType": 1,
+      "q": 250,
+      "p": 0,
+      "n": 0,
+      "d": 0
+    },
+    {
+      "name": "R S 2 Ltr",
+      "seq": 52,
+      "group": "Liquor",
+      "type": 0,
+      "subType": 1,
+      "q": 2340,
+      "p": 0,
+      "n": 0,
+      "d": 0
+    },
+    {
+      "name": "Ballantines",
+      "seq": 53,
+      "group": "Liquor",
+      "type": 0,
+      "subType": 1,
+      "q": 2720,
+      "p": 0,
+      "n": 0,
+      "d": 0
+    },
+    {
+      "name": "ROCKFORD",
+      "seq": 54,
+      "group": "Liquor",
+      "type": 0,
+      "subType": 1,
+      "q": 1460,
+      "p": 730,
+      "n": 360,
+      "d": 0
+    },
+    {
+      "name": "GREEN DEER",
+      "seq": 55,
+      "group": "650 ml",
+      "type": 1,
+      "subType": 1,
+      "q": 180,
+      "p": 0,
+      "n": 0,
+      "d": 0
+    },
+    {
+      "name": "MHB ORANGE ",
+      "seq": 56,
+      "group": "Liquor",
+      "type": 0,
+      "subType": 1,
+      "q": 880,
+      "p": 440,
+      "n": 220,
+      "d": 0
+    },
+    {
+      "name": "Madera wine",
+      "seq": 57,
+      "group": "Liquor",
+      "type": 0,
+      "subType": 1,
+      "q": 0,
+      "p": 440,
+      "n": 0,
+      "d": 0
+    },
+    {
+      "name": "Oaken glow",
+      "seq": 58,
+      "group": "Liquor",
+      "type": 0,
+      "subType": 1,
+      "q": 1280,
+      "p": 640,
+      "n": 320,
+      "d": 0
+    },
+    {
+      "name": "Oaksmith gold",
+      "seq": 59,
+      "group": "Liquor",
+      "type": 0,
+      "subType": 1,
+      "q": 1480,
+      "p": 740,
+      "n": 370,
+      "d": 0
+    },
+    {
+      "name": "MMVodaka cb",
+      "seq": 60,
+      "group": "Liquor",
+      "type": 0,
+      "subType": 1,
+      "q": 1240,
+      "p": 0,
+      "n": 0,
+      "d": 0
+    },
+    {
+      "name": "Mmvodaka lemon",
+      "seq": 61,
+      "group": "Liquor",
+      "type": 0,
+      "subType": 1,
+      "q": 1240,
+      "p": 0,
+      "n": 0,
+      "d": 0
+    },
+    {
+      "name": "Royal rathambore",
+      "seq": 62,
+      "group": "Liquor",
+      "type": 0,
+      "subType": 1,
+      "q": 2400,
+      "p": 0,
+      "n": 0,
+      "d": 0
+    },
+    {
+      "name": "Icon Q",
+      "seq": 63,
+      "group": "Liquor",
+      "type": 0,
+      "subType": 1,
+      "q": 760,
+      "p": 380,
+      "n": 190,
+      "d": 100
+    },
+    {
+      "name": "Kyra wine",
+      "seq": 64,
+      "group": "Liquor",
+      "type": 0,
+      "subType": 1,
+      "q": 880,
+      "p": 440,
+      "n": 220,
+      "d": 0
+    },
+    {
+      "name": "BP reserve",
+      "seq": 65,
+      "group": "Liquor",
+      "type": 0,
+      "subType": 1,
+      "q": 1560,
+      "p": 780,
+      "n": 390,
+      "d": 0
+    },
+    {
+      "name": "Rsbarrel",
+      "seq": 66,
+      "group": "Liquor",
+      "type": 0,
+      "subType": 1,
+      "q": 0,
+      "p": 0,
+      "n": 280,
+      "d": 0
+    },
+    {
+      "name": "Morphoes",
+      "seq": 67,
+      "group": "Liquor",
+      "type": 0,
+      "subType": 1,
+      "q": 1240,
+      "p": 0,
+      "n": 310,
+      "d": 0
+    },
+    {
+      "name": "B10",
+      "seq": 68,
+      "group": "Liquor",
+      "type": 0,
+      "subType": 1,
+      "q": 1400,
+      "p": 700,
+      "n": 0,
+      "d": 0
+    },
+    {
+      "name": "Kyron brandy",
+      "seq": 69,
+      "group": "Liquor",
+      "type": 0,
+      "subType": 1,
+      "q": 0,
+      "p": 0,
+      "n": 320,
+      "d": 0
+    },
+    {
+      "name": "ClassVodka",
+      "seq": 70,
+      "group": "Liquor",
+      "type": 0,
+      "subType": 1,
+      "q": 720,
+      "p": 360,
+      "n": 180,
+      "d": 0
+    },
+    {
+      "name": "Bsp2ltrs",
+      "seq": 72,
+      "group": "Liquor",
+      "type": 0,
+      "subType": 1,
+      "q": 3560,
+      "p": 0,
+      "n": 0,
+      "d": 0
+    },
+    {
+      "name": "Signature2ltrs",
+      "seq": 73,
+      "group": "Liquor",
+      "type": 0,
+      "subType": 1,
+      "q": 1750,
+      "p": 0,
+      "n": 0,
+      "d": 0
+    },
+    {
+      "name": "MHwisky",
+      "seq": 74,
+      "group": "Liquor",
+      "type": 0,
+      "subType": 1,
+      "q": 920,
+      "p": 460,
+      "n": 230,
+      "d": 0
+    },
+    {
+      "name": "Cheef DK",
+      "seq": 75,
+      "group": "Liquor",
+      "type": 0,
+      "subType": 1,
+      "q": 550,
+      "p": 0,
+      "n": 0,
+      "d": 0
+    },
+    {
+      "name": "Old monk",
+      "seq": 76,
+      "group": "Liquor",
+      "type": 0,
+      "subType": 1,
+      "q": 760,
+      "p": 380,
+      "n": 190,
+      "d": 0
+    },
+    {
+      "name": "Allseasons",
+      "seq": 77,
+      "group": "Liquor",
+      "type": 0,
+      "subType": 1,
+      "q": 1120,
+      "p": 0,
+      "n": 280,
+      "d": 0
+    },
+    {
+      "name": "Oaksmith silver",
+      "seq": 78,
+      "group": "Liquor",
+      "type": 0,
+      "subType": 1,
+      "q": 1040,
+      "p": 520,
+      "n": 260,
+      "d": 0
+    },
+    {
+      "name": "Whyte hall",
+      "seq": 79,
+      "group": "Liquor",
+      "type": 0,
+      "subType": 1,
+      "q": 730,
+      "p": 370,
+      "n": 180,
+      "d": 0
+    },
+    {
+      "name": "Mhb peach",
+      "seq": 80,
+      "group": "Liquor",
+      "type": 0,
+      "subType": 1,
+      "q": 880,
+      "p": 440,
+      "n": 0,
+      "d": 0
+    },
+    {
+      "name": "KF ultra max",
+      "seq": 81,
+      "group": "650 ml",
+      "type": 1,
+      "subType": 1,
+      "q": 220,
+      "p": 0,
+      "n": 0,
+      "d": 0
+    },
+    {
+      "name": "KF ultra tin",
+      "seq": 82,
+      "group": "650 ml",
+      "type": 1,
+      "subType": 1,
+      "q": 160,
+      "p": 0,
+      "n": 0,
+      "d": 0
+    },
+    {
+      "name": "Mhb Green Apple",
+      "seq": 83,
+      "group": "Liquor",
+      "type": 0,
+      "subType": 1,
+      "q": 0,
+      "p": 0,
+      "n": 220,
+      "d": 0
+    },
+    {
+      "name": "Fratelli shiraj",
+      "seq": 84,
+      "group": "Liquor",
+      "type": 0,
+      "subType": 1,
+      "q": 1120,
+      "p": 0,
+      "n": 280,
+      "d": 0
+    },
+    {
+      "name": "mhb2ltr",
+      "seq": 85,
+      "group": "650 ml",
+      "type": 0,
+      "subType": 1,
+      "q": 2020,
+      "p": 0,
+      "n": 0,
+      "d": 0
+    },
+    {
+      "name": "karjura strong",
+      "seq": 86,
+      "group": "650 ml",
+      "type": 1,
+      "subType": 1,
+      "q": 160,
+      "p": 0,
+      "n": 0,
+      "d": 0
+    },
+    {
+      "name": "karjura light",
+      "seq": 87,
+      "group": "500 ml",
+      "type": 1,
+      "subType": 1,
+      "q": 150,
+      "p": 0,
+      "n": 0,
+      "d": 0
+    },
+    {
+      "name": "Heineken",
+      "seq": 88,
+      "group": "500 ml",
+      "type": 1,
+      "subType": 1,
+      "q": 230,
+      "p": 0,
+      "n": 0,
+      "d": 0
+    },
+    {
+      "name": "corona",
+      "seq": 89,
+      "group": "500 ml",
+      "type": 1,
+      "subType": 1,
+      "q": 210,
+      "p": 0,
+      "n": 0,
+      "d": 0
+    },
+    {
+      "name": "Breezer BlackBeey",
+      "seq": 90,
+      "group": "500 ml",
+      "type": 1,
+      "subType": 1,
+      "q": 130,
+      "p": 0,
+      "n": 0,
+      "d": 0
+    },
+    {
+      "name": "100pipers 12years",
+      "seq": 92,
+      "group": "Liquor",
+      "type": 0,
+      "subType": 1,
+      "q": 2970,
+      "p": 0,
+      "n": 0,
+      "d": 0
+    },
+    {
+      "name": "smirn off",
+      "seq": 93,
+      "group": "Liquor",
+      "type": 0,
+      "subType": 1,
+      "q": 1240,
+      "p": 620,
+      "n": 310,
+      "d": 0
+    },
+    {
+      "name": "vat 69",
+      "seq": 95,
+      "group": "Liquor",
+      "type": 0,
+      "subType": 1,
+      "q": 2000,
+      "p": 0,
+      "n": 500,
+      "d": 0
+    },
+    {
+      "name": "mhb 1ltr",
+      "seq": 96,
+      "group": "Liquor",
+      "type": 0,
+      "subType": 1,
+      "q": 1010,
+      "p": 0,
+      "n": 0,
+      "d": 0
+    },
+    {
+      "name": "Teachers12yes",
+      "seq": 97,
+      "group": "Liquor",
+      "type": 0,
+      "subType": 1,
+      "q": 3470,
+      "p": 0,
+      "n": 0,
+      "d": 0
+    },
+    {
+      "name": "Jameson",
+      "seq": 98,
+      "group": "Liquor",
+      "type": 0,
+      "subType": 1,
+      "q": 2730,
+      "p": 0,
+      "n": 0,
+      "d": 0
+    },
+    {
+      "name": "Chivasreegal",
+      "seq": 99,
+      "group": "Liquor",
+      "type": 0,
+      "subType": 1,
+      "q": 4590,
+      "p": 0,
+      "n": 0,
+      "d": 0
+    },
+    {
+      "name": "J redlable edition",
+      "seq": 100,
+      "group": "Liquor",
+      "type": 0,
+      "subType": 1,
+      "q": 3000,
+      "p": 0,
+      "n": 0,
+      "d": 0
+    },
+    {
+      "name": "Lagacy",
+      "seq": 101,
+      "group": "Liquor",
+      "type": 0,
+      "subType": 1,
+      "q": 1560,
+      "p": 0,
+      "n": 390,
+      "d": 0
+    },
+    {
+      "name": "Royal challenge 1ltr",
+      "seq": 102,
+      "group": "Liquor",
+      "type": 0,
+      "subType": 1,
+      "q": 1480,
+      "p": 0,
+      "n": 0,
+      "d": 0
+    },
+    {
+      "name": "21+",
+      "seq": 103,
+      "group": "Liquor",
+      "type": 0,
+      "subType": 1,
+      "q": 1450,
+      "p": 0,
+      "n": 0,
+      "d": 0
+    },
+    {
+      "name": "courrier napoleon",
+      "seq": 104,
+      "group": "Liquor",
+      "type": 0,
+      "subType": 1,
+      "q": 0,
+      "p": 0,
+      "n": 220,
+      "d": 0
+    }
+  ],
+  "saleAmt": 0,
+  "stockAmt": 0
+}

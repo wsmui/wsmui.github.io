@@ -1,0 +1,230 @@
+{
+  "dateId": 20250930,
+  "itemType": "stock",
+  "values": [
+    {
+      "seq": 1,
+      "pqty": 24
+    },
+    {
+      "seq": 2,
+      "qqty": 10,
+      "pqty": 14,
+      "nqty": 1
+    },
+    {
+      "seq": 36,
+      "qqty": 22,
+      "pqty": 13,
+      "nqty": 25
+    },
+    {
+      "seq": 4,
+      "qqty": 15,
+      "pqty": 26,
+      "nqty": 47
+    },
+    {
+      "seq": 63,
+      "qqty": 22,
+      "pqty": 11,
+      "nqty": 244,
+      "dqty": 125
+    },
+    {
+      "seq": 7,
+      "qqty": 26,
+      "pqty": 38,
+      "nqty": 15,
+      "dqty": 41
+    },
+    {
+      "seq": 8,
+      "qqty": 23,
+      "pqty": 42,
+      "nqty": 74,
+      "dqty": 96
+    },
+    {
+      "seq": 9,
+      "qqty": 4,
+      "pqty": 16,
+      "nqty": 63
+    },
+    {
+      "seq": 10,
+      "qqty": 8,
+      "pqty": 17,
+      "nqty": 68
+    },
+    {
+      "seq": 24,
+      "qqty": 24,
+      "pqty": 34,
+      "nqty": 154,
+      "dqty": 86
+    },
+    {
+      "seq": 12,
+      "qqty": 50,
+      "pqty": 240,
+      "nqty": 212,
+      "dqty": 133
+    },
+    {
+      "seq": 74,
+      "nqty": 31
+    },
+    {
+      "seq": 15,
+      "qqty": 1,
+      "pqty": 21,
+      "nqty": 41,
+      "dqty": 249
+    },
+    {
+      "seq": 16,
+      "qqty": 118,
+      "pqty": 109,
+      "nqty": 784,
+      "dqty": 628
+    },
+    {
+      "seq": 71,
+      "qqty": 3
+    },
+    {
+      "seq": 48,
+      "qqty": 240
+    },
+    {
+      "seq": 19,
+      "qqty": 61,
+      "pqty": 6,
+      "nqty": 902,
+      "dqty": 2071
+    },
+    {
+      "seq": 84,
+      "qqty": 4,
+      "nqty": 58
+    },
+    {
+      "seq": 104,
+      "nqty": 8
+    },
+    {
+      "seq": 22,
+      "qqty": 15,
+      "pqty": 40,
+      "nqty": 159,
+      "dqty": 91
+    },
+    {
+      "seq": 64,
+      "nqty": 124
+    },
+    {
+      "seq": 38,
+      "qqty": 12,
+      "pqty": 14,
+      "nqty": 24
+    },
+    {
+      "seq": 40,
+      "qqty": 5
+    },
+    {
+      "seq": 26,
+      "pqty": 16,
+      "nqty": 23
+    },
+    {
+      "seq": 70,
+      "qqty": 1,
+      "nqty": 6
+    },
+    {
+      "seq": 28,
+      "nqty": 37,
+      "dqty": 62
+    },
+    {
+      "seq": 29,
+      "qqty": 74,
+      "nqty": 203
+    },
+    {
+      "seq": 37,
+      "qqty": 4
+    },
+    {
+      "seq": 65,
+      "pqty": 20,
+      "nqty": 5
+    },
+    {
+      "seq": 32,
+      "qqty": 5
+    },
+    {
+      "seq": 52,
+      "qqty": 2
+    },
+    {
+      "seq": 53,
+      "qqty": 2
+    },
+    {
+      "seq": 34,
+      "qqty": 7,
+      "pqty": 23
+    },
+    {
+      "seq": 39,
+      "nqty": 5
+    },
+    {
+      "seq": 3,
+      "qqty": 10
+    },
+    {
+      "seq": 41,
+      "qqty": 106
+    },
+    {
+      "seq": 42,
+      "qqty": 62
+    },
+    {
+      "seq": 43,
+      "qqty": 90
+    },
+    {
+      "seq": 44,
+      "qqty": 1057
+    },
+    {
+      "seq": 49,
+      "qqty": 8
+    },
+    {
+      "seq": 46,
+      "qqty": 52
+    },
+    {
+      "seq": 47,
+      "qqty": 18
+    },
+    {
+      "seq": 51,
+      "qqty": 14
+    },
+    {
+      "seq": 50,
+      "qqty": 216
+    }
+  ], 
+  "saleAmt": 678880,
+  "stockAmt": 1926350
+}

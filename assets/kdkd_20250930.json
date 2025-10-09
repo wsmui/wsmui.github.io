@@ -1,0 +1,624 @@
+{
+    "_id": {
+        "$numberInt": "20250930"
+    },
+    "qty": [
+        {
+            "_id": {
+                "$numberInt": "1"
+            },
+            "q": {
+                "$numberInt": "29"
+            },
+            "p": {
+                "$numberInt": "22"
+            },
+            "n": {
+                "$numberInt": "54"
+            }
+        },
+        {
+            "_id": {
+                "$numberInt": "2"
+            },
+            "q": {
+                "$numberInt": "5"
+            },
+            "p": {
+                "$numberInt": "21"
+            },
+            "n": {
+                "$numberInt": "27"
+            }
+        },
+        {
+            "_id": {
+                "$numberInt": "3"
+            },
+            "q": {
+                "$numberInt": "1"
+            },
+            "p": {
+                "$numberInt": "5"
+            },
+            "n": {
+                "$numberInt": "64"
+            }
+        },
+        {
+            "_id": {
+                "$numberInt": "4"
+            },
+            "q": {
+                "$numberInt": "27"
+            },
+            "p": {
+                "$numberInt": "27"
+            },
+            "n": {
+                "$numberInt": "28"
+            }
+        },
+        {
+            "_id": {
+                "$numberInt": "24"
+            },
+            "q": {
+                "$numberInt": "16"
+            },
+            "p": {
+                "$numberInt": "44"
+            },
+            "n": {
+                "$numberInt": "205"
+            },
+            "d": {
+                "$numberInt": "64"
+            }
+        },
+        {
+            "_id": {
+                "$numberInt": "6"
+            },
+            "p": {
+                "$numberInt": "25"
+            },
+            "n": {
+                "$numberInt": "34"
+            }
+        },
+        {
+            "_id": {
+                "$numberInt": "7"
+            },
+            "q": {
+                "$numberInt": "26"
+            },
+            "p": {
+                "$numberInt": "68"
+            },
+            "n": {
+                "$numberInt": "232"
+            },
+            "d": {
+                "$numberInt": "80"
+            }
+        },
+        {
+            "_id": {
+                "$numberInt": "71"
+            },
+            "q": {
+                "$numberInt": "4"
+            }
+        },
+        {
+            "_id": {
+                "$numberInt": "73"
+            },
+            "q": {
+                "$numberInt": "4"
+            }
+        },
+        {
+            "_id": {
+                "$numberInt": "8"
+            },
+            "q": {
+                "$numberInt": "29"
+            },
+            "p": {
+                "$numberInt": "77"
+            },
+            "n": {
+                "$numberInt": "196"
+            },
+            "d": {
+                "$numberInt": "136"
+            }
+        },
+        {
+            "_id": {
+                "$numberInt": "40"
+            },
+            "q": {
+                "$numberInt": "6"
+            }
+        },
+        {
+            "_id": {
+                "$numberInt": "72"
+            },
+            "q": {
+                "$numberInt": "2"
+            }
+        },
+        {
+            "_id": {
+                "$numberInt": "9"
+            },
+            "q": {
+                "$numberInt": "8"
+            },
+            "p": {
+                "$numberInt": "44"
+            },
+            "n": {
+                "$numberInt": "75"
+            },
+            "d": {
+                "$numberInt": "15"
+            }
+        },
+        {
+            "_id": {
+                "$numberInt": "10"
+            },
+            "q": {
+                "$numberInt": "15"
+            },
+            "p": {
+                "$numberInt": "38"
+            },
+            "n": {
+                "$numberInt": "52"
+            },
+            "d": {
+                "$numberInt": "56"
+            }
+        },
+        {
+            "_id": {
+                "$numberInt": "63"
+            },
+            "q": {
+                "$numberInt": "11"
+            },
+            "p": {
+                "$numberInt": "45"
+            },
+            "n": {
+                "$numberInt": "139"
+            },
+            "d": {
+                "$numberInt": "45"
+            }
+        },
+        {
+            "_id": {
+                "$numberInt": "12"
+            },
+            "q": {
+                "$numberInt": "27"
+            },
+            "p": {
+                "$numberInt": "130"
+            },
+            "n": {
+                "$numberInt": "439"
+            },
+            "d": {
+                "$numberInt": "213"
+            }
+        },
+        {
+            "_id": {
+                "$numberInt": "52"
+            },
+            "q": {
+                "$numberInt": "2"
+            }
+        },
+        {
+            "_id": {
+                "$numberInt": "13"
+            },
+            "p": {
+                "$numberInt": "9"
+            },
+            "n": {
+                "$numberInt": "40"
+            }
+        },
+        {
+            "_id": {
+                "$numberInt": "22"
+            },
+            "q": {
+                "$numberInt": "22"
+            },
+            "p": {
+                "$numberInt": "38"
+            },
+            "n": {
+                "$numberInt": "156"
+            },
+            "d": {
+                "$numberInt": "63"
+            }
+        },
+        {
+            "_id": {
+                "$numberInt": "74"
+            },
+            "p": {
+                "$numberInt": "25"
+            },
+            "n": {
+                "$numberInt": "14"
+            }
+        },
+        {
+            "_id": {
+                "$numberInt": "15"
+            },
+            "q": {
+                "$numberInt": "11"
+            },
+            "p": {
+                "$numberInt": "19"
+            },
+            "n": {
+                "$numberInt": "81"
+            },
+            "d": {
+                "$numberInt": "270"
+            }
+        },
+        {
+            "_id": {
+                "$numberInt": "16"
+            },
+            "p": {
+                "$numberInt": "75"
+            },
+            "n": {
+                "$numberInt": "465"
+            },
+            "d": {
+                "$numberInt": "457"
+            }
+        },
+        {
+            "_id": {
+                "$numberInt": "19"
+            },
+            "p": {
+                "$numberInt": "24"
+            },
+            "n": {
+                "$numberInt": "520"
+            },
+            "d": {
+                "$numberInt": "993"
+            }
+        },
+        {
+            "_id": {
+                "$numberInt": "96"
+            },
+            "q": {
+                "$numberInt": "2"
+            }
+        },
+        {
+            "_id": {
+                "$numberInt": "64"
+            },
+            "q": {
+                "$numberInt": "9"
+            },
+            "p": {
+                "$numberInt": "12"
+            },
+            "n": {
+                "$numberInt": "86"
+            }
+        },
+        {
+            "_id": {
+                "$numberInt": "38"
+            },
+            "q": {
+                "$numberInt": "1"
+            },
+            "p": {
+                "$numberInt": "30"
+            },
+            "n": {
+                "$numberInt": "54"
+            }
+        },
+        {
+            "_id": {
+                "$numberInt": "26"
+            },
+            "q": {
+                "$numberInt": "1"
+            },
+            "p": {
+                "$numberInt": "10"
+            },
+            "n": {
+                "$numberInt": "37"
+            }
+        },
+        {
+            "_id": {
+                "$numberInt": "28"
+            },
+            "n": {
+                "$numberInt": "13"
+            },
+            "d": {
+                "$numberInt": "56"
+            }
+        },
+        {
+            "_id": {
+                "$numberInt": "29"
+            },
+            "q": {
+                "$numberInt": "26"
+            },
+            "n": {
+                "$numberInt": "595"
+            }
+        },
+        {
+            "_id": {
+                "$numberInt": "56"
+            },
+            "p": {
+                "$numberInt": "9"
+            },
+            "n": {
+                "$numberInt": "24"
+            }
+        },
+        {
+            "_id": {
+                "$numberInt": "65"
+            },
+            "q": {
+                "$numberInt": "10"
+            },
+            "n": {
+                "$numberInt": "28"
+            }
+        },
+        {
+            "_id": {
+                "$numberInt": "98"
+            },
+            "q": {
+                "$numberInt": "7"
+            }
+        },
+        {
+            "_id": {
+                "$numberInt": "58"
+            },
+            "q": {
+                "$numberInt": "8"
+            },
+            "n": {
+                "$numberInt": "24"
+            }
+        },
+        {
+            "_id": {
+                "$numberInt": "39"
+            },
+            "q": {
+                "$numberInt": "11"
+            },
+            "n": {
+                "$numberInt": "26"
+            }
+        },
+        {
+            "_id": {
+                "$numberInt": "99"
+            },
+            "q": {
+                "$numberInt": "7"
+            }
+        },
+        {
+            "_id": {
+                "$numberInt": "54"
+            },
+            "n": {
+                "$numberInt": "6"
+            }
+        },
+        {
+            "_id": {
+                "$numberInt": "36"
+            },
+            "q": {
+                "$numberInt": "20"
+            },
+            "p": {
+                "$numberInt": "35"
+            },
+            "n": {
+                "$numberInt": "65"
+            },
+            "d": {
+                "$numberInt": "20"
+            }
+        },
+        {
+            "_id": {
+                "$numberInt": "48"
+            },
+            "q": {
+                "$numberInt": "95"
+            }
+        },
+        {
+            "_id": {
+                "$numberInt": "59"
+            },
+            "q": {
+                "$numberInt": "15"
+            },
+            "n": {
+                "$numberInt": "14"
+            }
+        },
+        {
+            "_id": {
+                "$numberInt": "78"
+            },
+            "q": {
+                "$numberInt": "9"
+            },
+            "p": {
+                "$numberInt": "24"
+            },
+            "n": {
+                "$numberInt": "69"
+            }
+        },
+        {
+            "_id": {
+                "$numberInt": "67"
+            },
+            "n": {
+                "$numberInt": "14"
+            }
+        },
+        {
+            "_id": {
+                "$numberInt": "34"
+            },
+            "q": {
+                "$numberInt": "11"
+            },
+            "p": {
+                "$numberInt": "18"
+            },
+            "n": {
+                "$numberInt": "43"
+            }
+        },
+        {
+            "_id": {
+                "$numberInt": "41"
+            },
+            "q": {
+                "$numberInt": "144"
+            }
+        },
+        {
+            "_id": {
+                "$numberInt": "42"
+            },
+            "q": {
+                "$numberInt": "373"
+            }
+        },
+        {
+            "_id": {
+                "$numberInt": "43"
+            },
+            "q": {
+                "$numberInt": "358"
+            }
+        },
+        {
+            "_id": {
+                "$numberInt": "44"
+            },
+            "q": {
+                "$numberInt": "1093"
+            }
+        },
+        {
+            "_id": {
+                "$numberInt": "45"
+            },
+            "q": {
+                "$numberInt": "119"
+            }
+        },
+        {
+            "_id": {
+                "$numberInt": "46"
+            },
+            "q": {
+                "$numberInt": "96"
+            }
+        },
+        {
+            "_id": {
+                "$numberInt": "47"
+            },
+            "q": {
+                "$numberInt": "20"
+            }
+        },
+        {
+            "_id": {
+                "$numberInt": "51"
+            },
+            "q": {
+                "$numberInt": "32"
+            }
+        },
+        {
+            "_id": {
+                "$numberInt": "50"
+            },
+            "q": {
+                "$numberInt": "214"
+            }
+        },
+        {
+            "_id": {
+                "$numberInt": "49"
+            },
+            "q": {
+                "$numberInt": "69"
+            }
+        },
+        {
+            "_id": {
+                "$numberInt": "55"
+            },
+            "q": {
+                "$numberInt": "42"
+            }
+        }
+    ],
+    "status": "closed",
+    "saleAmt": {
+        "$numberInt": "362280"
+    },
+    "stockAmt": {
+        "$numberInt": "1834770"
+    }
+}
