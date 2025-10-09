@@ -3,277 +3,277 @@
     "itemType": "stock",
     "values": [
         {
-            "values": 1,
+            "seq": 1,
             "qqty": 29,
             "pqty": 22,
             "nqty": 54
         },
         {
-            "values": 2,
+            "seq": 2,
             "qqty": 5,
             "pqty": 21,
             "nqty": 27
         },
         {
-            "values": 3,
+            "seq": 3,
             "qqty": 1,
             "pqty": 5,
             "nqty": 64
         },
         {
-            "values": 4,
+            "seq": 4,
             "qqty": 27,
             "pqty": 27,
             "nqty": 28
         },
         {
-            "values": 24,
+            "seq": 24,
             "qqty": 16,
             "pqty": 44,
             "nqty": 205,
             "dqty": 64
         },
         {
-            "values": 6,
+            "seq": 6,
             "pqty": 25,
             "nqty": 34
         },
         {
-            "values": 7,
+            "seq": 7,
             "qqty": 26,
             "pqty": 68,
             "nqty": 232,
             "dqty": 80
         },
         {
-            "values": 71,
+            "seq": 71,
             "qqty": 4
         },
         {
-            "values": 73,
+            "seq": 73,
             "qqty": 4
         },
         {
-            "values": 8,
+            "seq": 8,
             "qqty": 29,
             "pqty": 77,
             "nqty": 196,
             "dqty": 136
         },
         {
-            "values": 40,
+            "seq": 40,
             "qqty": 6
         },
         {
-            "values": 72,
+            "seq": 72,
             "qqty": 2
         },
         {
-            "values": 9,
+            "seq": 9,
             "qqty": 8,
             "pqty": 44,
             "nqty": 75,
             "dqty": 15
         },
         {
-            "values": 10,
+            "seq": 10,
             "qqty": 15,
             "pqty": 38,
             "nqty": 52,
             "dqty": 56
         },
         {
-            "values": 63,
+            "seq": 63,
             "qqty": 11,
             "pqty": 45,
             "nqty": 139,
             "dqty": 45
         },
         {
-            "values": 12,
+            "seq": 12,
             "qqty": 27,
             "pqty": 130,
             "nqty": 439,
             "dqty": 213
         },
         {
-            "values": 52,
+            "seq": 52,
             "qqty": 2
         },
         {
-            "values": 13,
+            "seq": 13,
             "pqty": 9,
             "nqty": 40
         },
         {
-            "values": 22,
+            "seq": 22,
             "qqty": 22,
             "pqty": 38,
             "nqty": 156,
             "dqty": 63
         },
         {
-            "values": 74,
+            "seq": 74,
             "pqty": 25,
             "nqty": 14
         },
         {
-            "values": 15,
+            "seq": 15,
             "qqty": 11,
             "pqty": 19,
             "nqty": 81,
             "dqty": 270
         },
         {
-            "values": 16,
+            "seq": 16,
             "pqty": 75,
             "nqty": 465,
             "dqty": 457
         },
         {
-            "values": 19,
+            "seq": 19,
             "pqty": 24,
             "nqty": 520,
             "dqty": 993
         },
         {
-            "values": 96,
+            "seq": 96,
             "qqty": 2
         },
         {
-            "values": 64,
+            "seq": 64,
             "qqty": 9,
             "pqty": 12,
             "nqty": 86
         },
         {
-            "values": 38,
+            "seq": 38,
             "qqty": 1,
             "pqty": 30,
             "nqty": 54
         },
         {
-            "values": 26,
+            "seq": 26,
             "qqty": 1,
             "pqty": 10,
             "nqty": 37
         },
         {
-            "values": 28,
+            "seq": 28,
             "nqty": 13,
             "dqty": 56
         },
         {
-            "values": 29,
+            "seq": 29,
             "qqty": 26,
             "nqty": 595
         },
         {
-            "values": 56,
+            "seq": 56,
             "pqty": 9,
             "nqty": 24
         },
         {
-            "values": 65,
+            "seq": 65,
             "qqty": 10,
             "nqty": 28
         },
         {
-            "values": 98,
+            "seq": 98,
             "qqty": 7
         },
         {
-            "values": 58,
+            "seq": 58,
             "qqty": 8,
             "nqty": 24
         },
         {
-            "values": 39,
+            "seq": 39,
             "qqty": 11,
             "nqty": 26
         },
         {
-            "values": 99,
+            "seq": 99,
             "qqty": 7
         },
         {
-            "values": 54,
+            "seq": 54,
             "nqty": 6
         },
         {
-            "values": 36,
+            "seq": 36,
             "qqty": 20,
             "pqty": 35,
             "nqty": 65,
             "dqty": 20
         },
         {
-            "values": 48,
+            "seq": 48,
             "qqty": 95
         },
         {
-            "values": 59,
+            "seq": 59,
             "qqty": 15,
             "nqty": 14
         },
         {
-            "values": 78,
+            "seq": 78,
             "qqty": 9,
             "pqty": 24,
             "nqty": 69
         },
         {
-            "values": 67,
+            "seq": 67,
             "nqty": 14
         },
         {
-            "values": 34,
+            "seq": 34,
             "qqty": 11,
             "pqty": 18,
             "nqty": 43
         },
         {
-            "values": 41,
+            "seq": 41,
             "qqty": 144
         },
         {
-            "values": 42,
+            "seq": 42,
             "qqty": 373
         },
         {
-            "values": 43,
+            "seq": 43,
             "qqty": 358
         },
         {
-            "values": 44,
+            "seq": 44,
             "qqty": 1093
         },
         {
-            "values": 45,
+            "seq": 45,
             "qqty": 119
         },
         {
-            "values": 46,
+            "seq": 46,
             "qqty": 96
         },
         {
-            "values": 47,
+            "seq": 47,
             "qqty": 20
         },
         {
-            "values": 51,
+            "seq": 51,
             "qqty": 32
         },
         {
-            "values": 50,
+            "seq": 50,
             "qqty": 214
         },
         {
-            "values": 49,
+            "seq": 49,
             "qqty": 69
         },
         {
-            "values": 55,
+            "seq": 55,
             "qqty": 42
         }
     ],
